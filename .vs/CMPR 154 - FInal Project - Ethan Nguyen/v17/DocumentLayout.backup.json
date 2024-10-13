@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ethan\\source\\repos\\CMPR 154 - FInal Project - Ethan Nguyen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9135B786-EC2F-47C0-A03B-EFDAD8B3475B}|CMPR 154 - FInal Project - Ethan Nguyen.vcxproj|C:\\Users\\ethan\\source\\repos\\CMPR 154 - FInal Project - Ethan Nguyen\\source.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9135B786-EC2F-47C0-A03B-EFDAD8B3475B}|CMPR 154 - FInal Project - Ethan Nguyen.vcxproj|solutionrelative:source.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Irvine\\SmallWin.inc||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmallWin.inc",
+              "DocumentMoniker": "C:\\Irvine\\SmallWin.inc",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Irvine\\SmallWin.inc",
+              "ToolTip": "C:\\Irvine\\SmallWin.inc",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Irvine\\SmallWin.inc",
+              "ViewState": "AQIAACMBAAAAAAAAAAAlwEsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-11-11T20:10:37.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.asm",
+              "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\CMPR 154 - FInal Project - Ethan Nguyen\\source.asm",
+              "RelativeDocumentMoniker": "source.asm",
+              "ToolTip": "C:\\Users\\ethan\\source\\repos\\CMPR 154 - FInal Project - Ethan Nguyen\\source.asm",
+              "RelativeToolTip": "source.asm",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2023-11-11T20:09:05.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
